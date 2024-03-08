@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://git.v2it.win/demo/</loc>
+    <lastmod>2022-08-13T19:11:06+08:00</lastmod>
+  </url><url>
+    <loc>https://git.v2it.win/about/</loc>
+    <lastmod>2022-08-13T18:54:21+08:00</lastmod>
+  </url><url>
+    <loc>https://git.v2it.win/categories/</loc>
+  </url><url>
+    <loc>https://git.v2it.win/</loc>
+  </url><url>
+    <loc>https://git.v2it.win/tags/</loc>
+  </url>
+</urlset>
